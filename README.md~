@@ -1,0 +1,12 @@
+# MTG_Life
+An offshoot of a hackathon project, to be continuously developed and offered for free on the Play Store.
+
+CODE FORMATTING GUIDELINES
+
+Java Code
+camelBack
+
+
+XML
+camelBack
+components should be descriptive, full names
